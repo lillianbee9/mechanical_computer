@@ -9,7 +9,7 @@ num_1 = num_1[2:]
 num_2 = num_2[2:]
 
 
-### making numbers the same size adn adding extra place value
+### making numbers the same size adn adding extra place value ###
 inputs_1 = [int(digit) for digit in str(num_1)]
 inputs_2 = [int(digit) for digit in str(num_2)]
 
